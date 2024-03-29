@@ -1,4 +1,4 @@
-👋 Hi, I'm Kirti, an aspiring full-stack developer on a journey to master React, Node.js, Angular, .NET and many more.
+👋 Hi, I'm Kirti, an aspiring full-stack developer on a journey to master .NET, React, Node.js, Angular and many more.
 
 🚀 I'm deeply passionate about crafting innovative web applications that make a positive impact. Currently, I'm diving deep into the realms of frontend development with React, exploring its powerful capabilities to create dynamic and responsive user interfaces.
 
@@ -6,5 +6,5 @@
 
 🌟 With a thirst for knowledge and a drive for excellence, I'm committed to mastering these technologies and honing my skills as a versatile full-stack developer.
 
-🔧 Alongside React, Node.js, Angular, and .NET, I'm also familiarizing myself with a range of complementary technologies such as JavaScript, TypeScript, HTML/CSS, and SQL, among others.
+🔧 Alongside  .NET, React, Angular, JavaScript, TypeScript, HTML/CSS, and SQL, I'm also familiarizing myself with a range of complementary technologies such as Node.js, GenerativeAI, Microsoft Power Platform and many others.
 
